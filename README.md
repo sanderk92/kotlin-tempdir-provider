@@ -1,6 +1,6 @@
 # Temporary Directory Provider
 
-A simple Autocloseable Temporary Directory Provider that can be used for temporary storage. All files are cleaned up 
+A simple Autocloseable Temporary Directory Provider that can be used for temporary storage. All files are removed up 
 when the Autocloseable is closed.
 
 ```kotlin
