@@ -16,5 +16,3 @@ tempDirectoryProvider.provide().use { tempDir ->
     Files.createFile(secondTemporaryFile)
 }
 ```
-
-<sub>* All subdirectories created are guaranteed to be empty.<sub>
